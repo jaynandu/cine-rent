@@ -1,3 +1,16 @@
-body{
-background-color:  blue;
+body {
+	display: flex;
+	background-color: blue;
+}
+
+// i class="pays" is for country
+
+.pays {
+	margin: 1rem;
+	background-color: grey;
+}
+
+// look_up c'est pour search
+.look_up {
+	background-color: aqua;
 }

@@ -1,3 +1,15 @@
 body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
   background-color: blue;
+}
+
+.pays {
+  margin: 1rem;
+  background-color: grey;
+}
+
+.look_up {
+  background-color: aqua;
 }
